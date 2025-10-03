@@ -5,6 +5,9 @@ INTEGRANTES DEL EQUIPO
 | Maria Camila Bravo     | 1085943131     | Bioingeniería  |            
 | Sebastian Bedoya Restrepo       | 1040048038     | Ingeniería de Sistemas  |                    
 | Jasmin Juliana Jaramillo Tapias | 1017163639     | Ingeniería de Sistemas  |
+
+
+
 DESCRIPCIÓN DEL PROYECTO
 Este proyecto forma parte de la competencia "Predicción del Desempeño en las Pruebas Saber Pro" de Kaggle.
 El objetivo es desarrollar un modelo de clasificación supervisado que prediga el nivel de desempeño de los estudiantes
